@@ -1,0 +1,4 @@
+com\chatroomserver\chatroonbackend\model\Message.class
+com\chatroomserver\chatroonbackend\ChatroonBackendApplication.class
+com\chatroomserver\chatroonbackend\config\WebSocketConfig.class
+com\chatroomserver\chatroonbackend\model\Status.class

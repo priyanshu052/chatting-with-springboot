@@ -1,0 +1,5 @@
+# Created at 2025-04-23T02:25:20.374
+Boot Manifest-JAR contains absolute paths in classpath 'E:\lenovo\Documents\New folder\Springboot-chatapp-master\chatroon-backend\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
